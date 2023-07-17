@@ -1,0 +1,77 @@
+#video_frame{
+    width: 900px;
+    margin-top: 150px;
+    margin-left: 480px;
+    border-radius: 30px;
+}
+
+#kanha_back{
+    background-image:url(./Kanha-National-Park\ \(1\).jpg);
+}
+#ujjain_back{
+    background-image:url(./uajjain_back1jpg.jpg);
+    width: 5000px;
+}
+#bhedaghat_back{
+    background-image:url(./stkh-bnn-1.webp);
+
+}
+#sanchi_back{
+    background-image:url(./Sanchi-N-MP-220.jpg);
+}
+
+.left {
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.left img {
+    margin-top: 0px;
+    width: 136px;
+    filter: invert(100%);
+}
+
+.container1{
+    display: flex;
+}
+#heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    margin: auto;
+    color: whitesmoke;
+}
+
+.container3{
+    margin-top: 70px;
+    display: flex;
+}
+
+#box1{
+    margin-left: 30px;
+    width: 800px;
+}
+#heading1{
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+    line-height: 1;
+    font-size: 36px;
+    color: #260000;
+    margin-bottom: 30px;
+    letter-spacing: 3px;
+    text-decoration: underline maroon;
+}
+
+p{
+    font-size: large;
+}
+.sub-box{
+    display: flex;
+}
+.container2{
+    position: relative;
+}
+#covid_heading{
+    position: absolute;
+}
